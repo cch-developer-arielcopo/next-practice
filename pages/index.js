@@ -13,7 +13,7 @@ const PostLink = props => (
 
 const Index = () => (
     <Layout>
-        <h1 className="example">My Blog</h1>
+        <h1 className="example">Testing</h1>
         <ul>
             <PostLink title="Hello Next.js" />
             <PostLink title="Learn Next.js is awesome" />
